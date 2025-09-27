@@ -14,11 +14,6 @@
 
 | Дата       | Тема урока |
 |------------|------------|
-| 01.10.2025 |  |
-|  |  |
-|  |  |
-|  | |
-
----
+| 26.09.2025 | - [Раздел №1. Общая информация о языке](https://github.com/ivalozkaMIIGAiK/EGE_inf1_11_2026/blob/main/Раздел_№1_Общая_информация_о_языке.ipynb) <br> - [Раздел №2. Ввод и вывод данных](https://github.com/ivalozkaMIIGAiK/EGE_inf1_11_2026/blob/main/Раздел_№2_Ввод_и_вывод_данных.ipynb) <br> - [Раздел №3. Основные типы данных](https://github.com/ivalozkaMIIGAiK/EGE_inf1_11_2026/blob/main/Раздел_№3_Основные_типы_данных.ipynb) <br> - [Раздел №4. Условные операторы](https://github.com/ivalozkaMIIGAiK/EGE_inf1_11_2026/blob/main/Раздел_№4_Условные_операторы.ipynb) <br> - [Раздел №5. Циклы в Python (for и while)](https://github.com/ivalozkaMIIGAiK/EGE_inf1_11_2026/blob/main/Раздел_№5_Циклы_в_Python_for_и_while.ipynb) |
 
 
